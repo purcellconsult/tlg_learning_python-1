@@ -1,2 +1,1 @@
-verision control projects with GIT
-More text for test
+learning the basic fundamentals of Python 
