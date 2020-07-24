@@ -67,8 +67,9 @@ for num in range(0, 101, 2):
 
 import random
 
-nums = ()
+nums = []  # creates an empty list
 
 for k in range(100):
-    nums = (random.randint(1,100))
-    print(nums)
+    nums.append(random.randint(1, 100))  # adds the random number to the list
+
+print(nums)  # displays the list of random integers 
